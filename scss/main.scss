@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+}
+
+h1, h2{
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+}
+
+.container{
+	width: 1300px;
+	margin: 0 auto;
+}
+
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	&-block{
+		display: flex;
+	}
+	&-links{
+
+	}
+}
